@@ -1,0 +1,16 @@
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\bin\Debug\netcoreapp3.1\UserWorker.exe
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\obj\Debug\netcoreapp3.1\UserWorker.csprojAssemblyReference.cache
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\obj\Debug\netcoreapp3.1\UserWorker.AssemblyInfoInputs.cache
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\obj\Debug\netcoreapp3.1\UserWorker.AssemblyInfo.cs
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\bin\Debug\netcoreapp3.1\UserWorker.deps.json
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\bin\Debug\netcoreapp3.1\UserWorker.runtimeconfig.json
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\bin\Debug\netcoreapp3.1\UserWorker.runtimeconfig.dev.json
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\bin\Debug\netcoreapp3.1\UserWorker.dll
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\bin\Debug\netcoreapp3.1\UserWorker.pdb
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\obj\Debug\netcoreapp3.1\UserWorker.csproj.CopyComplete
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\obj\Debug\netcoreapp3.1\UserWorker.dll
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\obj\Debug\netcoreapp3.1\UserWorker.pdb
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
+C:\Users\danilo.goncalves\source\repos\UserWorker\UserWorker\bin\Debug\netcoreapp3.1\Npgsql.dll
