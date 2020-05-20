@@ -17,22 +17,24 @@ namespace TagApi.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-       // private ILogger<UserController> _logger;
+        private ILogger<UserController> _logger;
 
-        private IUserRepository _userRepository;
+       // private IUserRepository _userRepository;
+       /* 
         public UserController(IUserRepository userRepository)
         {
             _userRepository = userRepository;
         }
+        */
        
-/*
+        //Logger
         public UserController(ILogger<UserController> logger)
         {
             _logger = logger;
 
         }
-        */
         
+        /*
         [HttpGet]
         public IActionResult Get()
         {
@@ -66,8 +68,8 @@ namespace TagApi.Controllers
             _userRepository.Delete(id);
             return NoContent();
         }
-
-        /*
+        */
+        
                 public IActionResult InsertUser(User user)
                 {
                     try
@@ -102,6 +104,6 @@ namespace TagApi.Controllers
 
 
 
-                }*/
+                }
     }
 }

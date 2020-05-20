@@ -6,7 +6,7 @@ namespace UserWorker.Domain
 {
     public sealed class User
     {
-        public long id { get; set; }
+        public long? id { get; set; }
         public string firstName { get; set; }
         public string lastName { get; set; }
         public string cnpj { get; set; }

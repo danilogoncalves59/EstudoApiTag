@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danilo.goncalves\\source\\repos\\UserWorker\\UserWorker\\UserWorker.csproj": {}
+    "C:\\Users\\danilo.goncalves\\source\\repos\\TagApi\\EstudoApiTag\\UserWorker\\UserWorker\\UserWorker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danilo.goncalves\\source\\repos\\UserWorker\\UserWorker\\UserWorker.csproj": {
+    "C:\\Users\\danilo.goncalves\\source\\repos\\TagApi\\EstudoApiTag\\UserWorker\\UserWorker\\UserWorker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danilo.goncalves\\source\\repos\\UserWorker\\UserWorker\\UserWorker.csproj",
+        "projectUniqueName": "C:\\Users\\danilo.goncalves\\source\\repos\\TagApi\\EstudoApiTag\\UserWorker\\UserWorker\\UserWorker.csproj",
         "projectName": "UserWorker",
-        "projectPath": "C:\\Users\\danilo.goncalves\\source\\repos\\UserWorker\\UserWorker\\UserWorker.csproj",
+        "projectPath": "C:\\Users\\danilo.goncalves\\source\\repos\\TagApi\\EstudoApiTag\\UserWorker\\UserWorker\\UserWorker.csproj",
         "packagesPath": "C:\\Users\\danilo.goncalves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danilo.goncalves\\source\\repos\\UserWorker\\UserWorker\\obj\\",
+        "outputPath": "C:\\Users\\danilo.goncalves\\source\\repos\\TagApi\\EstudoApiTag\\UserWorker\\UserWorker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

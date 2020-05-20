@@ -7178,11 +7178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danilo.goncalves\\source\\repos\\TagApi\\TagApi\\TagApi.csproj",
+      "projectUniqueName": "C:\\Users\\danilo.goncalves\\source\\repos\\TagApi\\EstudoApiTag\\TagApi\\TagApi.csproj",
       "projectName": "TagApi",
-      "projectPath": "C:\\Users\\danilo.goncalves\\source\\repos\\TagApi\\TagApi\\TagApi.csproj",
+      "projectPath": "C:\\Users\\danilo.goncalves\\source\\repos\\TagApi\\EstudoApiTag\\TagApi\\TagApi.csproj",
       "packagesPath": "C:\\Users\\danilo.goncalves\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danilo.goncalves\\source\\repos\\TagApi\\TagApi\\obj\\",
+      "outputPath": "C:\\Users\\danilo.goncalves\\source\\repos\\TagApi\\EstudoApiTag\\TagApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
