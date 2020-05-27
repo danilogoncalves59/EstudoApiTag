@@ -192,7 +192,6 @@ C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\bin\Debug\netc
 C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\obj\Debug\netcoreapp3.1\TagApi.csprojAssemblyReference.cache
-C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\obj\Debug\netcoreapp3.1\TagApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\obj\Debug\netcoreapp3.1\TagApi.AssemblyInfoInputs.cache
 C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\obj\Debug\netcoreapp3.1\TagApi.AssemblyInfo.cs
 C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\obj\Debug\netcoreapp3.1\TagApi.RazorTargetAssemblyInfo.cache
@@ -201,3 +200,11 @@ C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\obj\Debug\netc
 C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\obj\Debug\netcoreapp3.1\staticwebassets\TagApi.StaticWebAssets.xml
 C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\obj\Debug\netcoreapp3.1\TagApi.dll
 C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\obj\Debug\netcoreapp3.1\TagApi.pdb
+C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danilo.goncalves\source\repos\TagApi\EstudoApiTag\TagApi\obj\Debug\netcoreapp3.1\TagApi.MvcApplicationPartsAssemblyInfo.cache
