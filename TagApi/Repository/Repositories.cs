@@ -12,7 +12,7 @@ namespace TagApi.Repository
             var connection = new NpgsqlConnection("Host=localhost;Username=postgres;Password=postgres;Database=tagrepository");
             connection.Open();
             var users = new List<User>();
-            var query = "select * from users where email = \"" + Email + "\"";
+            var query = "select * from public.users where email = \"" + Email + "\"";
             var qEmail = connection.Execute(query);
            
 
