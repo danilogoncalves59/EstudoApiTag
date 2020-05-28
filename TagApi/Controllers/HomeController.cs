@@ -10,7 +10,7 @@ namespace TagApi.Controllers
     [Route("v1/account")]
     [ApiController]
     public class HomeController : ControllerBase
-    {
+    {       
         [HttpPost]
         [Route("login")]
         [AllowAnonymous]

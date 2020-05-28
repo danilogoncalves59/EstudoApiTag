@@ -25,7 +25,9 @@ namespace TagApi.Repository
             users.Add(new User { id = qID, firstName = qFirstName, lastName= qLastName , cnpj= qCnpj, email = qEmail, senha = qSenha});
 
 
-            return users.
+
+
+            return users.AsEnumerable();
         
 
         ;
