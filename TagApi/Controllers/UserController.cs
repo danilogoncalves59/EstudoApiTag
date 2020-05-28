@@ -1,15 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Text.Json;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using RabbitMQ.Client;
 using TagApi.Domain;
-using TagApi.Repository;
 
 namespace TagApi.Controllers
 {
@@ -19,56 +14,14 @@ namespace TagApi.Controllers
     {
         private ILogger<UserController> _logger;
 
-       // private IUserRepository _userRepository;
-       /* 
-        public UserController(IUserRepository userRepository)
-        {
-            _userRepository = userRepository;
-        }
-        */
        
-        //Logger
         public UserController(ILogger<UserController> logger)
         {
             _logger = logger;
 
         }
         
-        /*
-        [HttpGet]
-        public IActionResult Get()
-        {
-            return Ok(_userRepository.findAll());
-        }
-
-        [HttpGet("{id}")]
-        public IActionResult Get(long id)
-        {
-            var user = _userRepository.findById(id);
-            if (user == null) { return NotFound(); }
-            return Ok(user);
-        }
-        [HttpPost]
-        public IActionResult Post([FromBody]User user)
-        {
-            if (user == null) { return BadRequest(); }
-            return new ObjectResult(_userRepository.Create(user));
-        }
-
-        [HttpPut("{id}")]
-        public IActionResult Put([FromBody]User user)
-        {
-            if (user == null) { return BadRequest(); }
-            return new ObjectResult(_userRepository.Update(user));
-        }
-
-        [HttpDelete]
-        public IActionResult Delete(long id)
-        {
-            _userRepository.Delete(id);
-            return NoContent();
-        }
-        */
+       
         
                 public IActionResult InsertUser(User user)
                 {

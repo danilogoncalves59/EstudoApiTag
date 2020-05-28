@@ -18,7 +18,7 @@ namespace TagApi.Controllers
         
         public async Task<ActionResult<dynamic>> Authenticate([FromBody] User model)
         {
-            var user = Repositories.Get(model.email, model.senha);
+            var user = Repositories.Get(model.email);
 
             if (user == null)
                 return NotFound(new { message = "Usuario ou senha invalidos" });
